@@ -56,6 +56,9 @@
       window.I18n = <%= current_translations.to_json.html_safe %>
       window.I18nFallback = <%= fallback_translations.to_json.html_safe %>
     </script>
+    <link rel="icon" sizes="16x16" type="image/png" href="/favicon_16.png" />
+    <link rel="icon" sizes="32x32" type="image/png" href="/favicon_32.png" />
+
   </head>
 
   <body class="app-background" data-controller="<%= params[:controller] %>" data-action="<%= params[:action] %>" data-relative-root="<%= Rails.configuration.relative_url_root || "/" %>">
