@@ -196,7 +196,7 @@ fr:
   bigbluebutton_exception: "Oups, une erreur s'est produite lors du démarrage de la réunion !"
   cancel: Annuler
   cookies:
-    cookie_info: "Utiliser cette plateforme ADNR implique d'avoir accepté les <a href="https://formations-naturopathe.eu/cgu-meetlearning/">CGU</a>."
+    cookie_info: "Utiliser cette plateforme ADNR implique d'avoir accepté les <a href=\"https://formations-naturopathe.eu/cgu-meetlearning/\">CGU</a>."
     cookie_button: Je suis d'accord
   copied: Copié
   copy: Copier
