@@ -196,7 +196,7 @@ fr:
   bigbluebutton_exception: "Oups, une erreur s'est produite lors du démarrage de la réunion !"
   cancel: Annuler
   cookies:
-    cookie_info: "Les cookies nous aident à fournir nos services. En utilisant nos services, vous acceptez notre utilisation des cookies."
+    cookie_info: "Utiliser cette plateforme ADNR implique d'avoir accepté les <a href="https://formations-naturopathe.eu/cgu-meetlearning/">CGU</a>."
     cookie_button: Je suis d'accord
   copied: Copié
   copy: Copier
@@ -292,7 +292,7 @@ fr:
     search:
       start: Commencer la recherche...
   landing:
-    about: "%{href} est une interface simple pour votre serveur open-source de Web conférence MeetLearning. Vous pouvez créer vos propres salles pour héberger des sessions ou rejoindre d'autres utilisateurs via un lien court et pratique. "
+    about: "MeetLearning est la plateforme de visioconférence de ADNR Formations. Vous pouvez y retrouver des conférences, des cours en visio, des travaux dirigés. C'est également un lieu d'échange avec l'équipe administrative et l'équipe technique."
     welcome: Bienvenue sur MeetLearning.
     video: Regardez notre tutoriel sur l'utilisation de Greenlight
     upgrade: Montrez-moi comment passer à la version 2.0 !
